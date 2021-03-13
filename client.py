@@ -13,6 +13,3 @@ def connect(host="1.2.3.4", port=8080):
         except:
             pass
         time.sleep(5)
-
-if __name__ == "__main__":
-    
